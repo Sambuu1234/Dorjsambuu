@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(12, 100px);
+  justify-content: center;
+}
+.box {
+  height: 100px;
+  background-color: aqua;
+  border: solid black 2px;
+}
